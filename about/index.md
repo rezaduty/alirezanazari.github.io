@@ -37,7 +37,7 @@ comments: false
 				<span class="flag">فریلنسر</span>
 				<span class="time-wrapper"><span class="time">مهر ۱۳۹۶ تا آبان ۱۳۹۶</span></span>
 			</div>
-			<div class="desc">طراحی کامل برنامه اندروید <a target="_blank" href="cafebazaar.ir/app/ir.alirezanazari.rahheyat/?l=fa">راه هیت</a></div>
+			<div class="desc">طراحی کامل برنامه اندروید <a target="_self" href="cafebazaar.ir/app/ir.alirezanazari.rahheyat/?l=fa">راه هیت</a></div>
 		</div>
 	</li>
   
@@ -48,7 +48,7 @@ comments: false
 				<span class="flag">فریلنسر</span>
 				<span class="time-wrapper"><span class="time">مهر ۱۳۹۵ تا آبان ۱۳۹۵</span></span>
 			</div>
-			<div class="desc">طراحی کامل برنامه اندروید <a target="_blank" href="https://cafebazaar.ir/app/ir.alirezanzari.app.mrprogrammer/?l=fa">آقای برنامه نویس</a></div>
+			<div class="desc">طراحی کامل برنامه اندروید <a target="_self" href="https://cafebazaar.ir/app/ir.alirezanzari.app.mrprogrammer/?l=fa">آقای برنامه نویس</a></div>
 		</div>
 	</li>
 
@@ -61,7 +61,7 @@ comments: false
 
 <img src="/alireza_nazari.png" />
 
-<a target="_blank" href="/alireza_nazari.vcf">و دانلود Vcard </a>
+<a target="_self" href="/alireza_nazari.vcf">و دانلود Vcard </a>
 
 
 
