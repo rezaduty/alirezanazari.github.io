@@ -18,14 +18,51 @@ comments: false
 
 ## توانایی ها
 
-<div id="chart"></div>
+<div class="col-lg-12 col-md-12 col-sm-12">
+ <div class="skill">
+             <ul>
+               <li>Android
+                 <div class="bar_container">
+                  <span class="bar" data-bar="{ &quot;color&quot;: &quot;#07cb79&quot; }" style="background-color: #ff669a; width: 80%;">
+                    <span class="pct" style="color: rgb(7, 203, 121); opacity: 1;">80%</span>
+                  </span>
+                </div>
+              </li>
+              <li>Java
+               <div class="bar_container">
+                 <span class="bar" data-bar="{ &quot;color&quot;: &quot;#07cb79&quot;, &quot;delay&quot;: &quot;600&quot; }" style="background-color: rgb(7, 203, 121); width: 65%;">
+                   <span class="pct" style="color: rgb(7, 203, 121); opacity: 1;">65%</span>
+                 </span>
+                </div>
+              </li>
+              <li>Photoshop
+                <div class="bar_container">
+                 <span class="bar" data-bar="{ &quot;color&quot;: &quot;#07cb79&quot;, &quot;delay&quot;: &quot;1200&quot; }" style="background-color: rgb(7, 203, 121); width: 60%;">
+                  <span class="pct" style="color: rgb(7, 203, 121); opacity: 1;">60%</span>
+                 </span>
+                </div>
+              </li>
+              <li>Php
+                <div class="bar_container">
+                 <span class="bar" data-bar="{ &quot;color&quot;: &quot;#07cb79&quot;, &quot;delay&quot;: &quot;1200&quot; }" style="background-color: rgb(7, 203, 121); width: 65%;">
+                  <span class="pct" style="color: rgb(7, 203, 121); opacity: 1;">65%</span>
+                 </span>
+                </div>
+              </li>
+              <li>Mysql
+                <div class="bar_container">
+                 <span class="bar" data-bar="{ &quot;color&quot;: &quot;#07cb79&quot;, &quot;delay&quot;: &quot;1200&quot; }" style="background-color: rgb(7, 203, 121); width: 75%;">
+                  <span class="pct" style="color: rgb(7, 203, 121); opacity: 1;">75%</span>
+                 </span>
+                </div>
+              </li>
+          </ul>
+</div>
 
+</div>
 
-## تجارب کاری
+##  تجارب کاری
 
-
-  
-  
 <!-- The Timeline -->
 
 <ul class="timeline">
@@ -59,4 +96,4 @@ comments: false
 ## با من در ارتباط باشید
 
       
-[📧 a.alirezanazari@gmail.com](mailto:a.alirezanazari@gmail.com){: .btn}
+{% include social-links.html %}
