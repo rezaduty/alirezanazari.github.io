@@ -19,6 +19,11 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
+                 <a class="btn zoombtn" href="/" style="
+                        position:  relative;
+                        left: 51%;
+                        top: -30px;
+                    "> بازگشت </a>
                     <br><span id="h4_day">{{ page.date | date: "%A" }}</span> - <h4 style="display:inline;" id="h4_date">{{ page.date | date: "%Y/%-m/%-d" }}</h4>
                     {% if site.reading_time %}
                     <p class="reading-time">
