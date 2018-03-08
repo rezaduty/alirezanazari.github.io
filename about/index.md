@@ -56,16 +56,6 @@ comments: false
 </ul>
 
 
-
-## Vcard و QRcode
-
-<img src="/alireza_nazari.png" />
-
-<a target="_self" href="/alireza_nazari.vcf">و دانلود Vcard </a>
-
-
-
-
 ## با من در ارتباط باشید
 
       

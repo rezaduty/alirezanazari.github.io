@@ -10,12 +10,12 @@
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
-					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">بیشتر</span></a></li>
+					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">اطلاعات بیشتر</span></a></li>
 					{% if site.email %}<li>
-                        <a href="mailto:{{ site.email }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
+                        <a href="mailto:{{ site.email }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> پست اکترونیک</a>
                     </li>{% endif %}
                     {% if site.twitter %}<li>
-                        <a href="http://twitter.com/{{ site.twitter }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+                        <a href="http://twitter.com/{{ site.twitter }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i> توییتر</a>
                     </li>{% endif %}
                     {% if site.facebook %}<li>
                         <a href="http://facebook.com/{{ site.facebook }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
@@ -24,7 +24,7 @@
                         <a href="http://plus.google.com/+{{ site.google.plus }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>
                     </li>{% endif %}
                     {% if site.linkedin %}<li>
-                        <a href="http://linkedin.com/in/{{ site.linkedin }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
+                        <a href="http://linkedin.com/in/{{ site.linkedin }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i> لینکداین</a>
                     </li>{% endif %}
                     {% if site.xing %}<li>
                         <a href="http://www.xing.com/profile/{{ site.xing }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-xing-square"></i> Xing</a>
@@ -101,18 +101,6 @@
 		    {% endif %}
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_self" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
-           <li>
-                <a href="#id" class="flipper-container">
-                  <div id="id" class="flipper">
-                    <div class="front-face" data-icon="&#x27a3;"><span data-hover="Clicked"><a target="_self" href="mailto:a.alirezanazari@gmail.com?subject=سفارش برنامه" style="
-    font-size: 17px;
-    top: -54px;
-    padding: 1px;
-">شما هم سفارش دهید</a></span></div>
-                    <div class="back-face" data-icon="&#10003;">با تشکز از شما</div>
-                  </div>
-                </a>
-            </li>
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
 

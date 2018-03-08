@@ -1,7 +1,11 @@
                     <hr class="hr-line">
                     <h3 class="title" style="font-size:30px;">
-                    
-                    <a class="social-btn" href="https://cafebazaar.ir/developer/696994579358/?l=fa" target="_self" rel="noopener noreferrer"><i class="fa fa-fw "><img class="bazar" src="assets/img/bazar.png" style="width:85%;position:relative;top:10px;margin-top:-7px;"></i></a>
+                        {% if site.cafebazar %}
+                        <a class="social-btn" href="https://cafebazaar.ir/developer/{{ site.cafebazar }}/?l=fa" target="_self" rel="noopener noreferrer"><i class="fa fa-fw "><img class="bazar" src="assets/img/bazar.png" style="width:85%;position:relative;top:10px;margin-top:-7px;"></i></a>
+                        {% endif %}
+                        {% if site.aparat %}
+                        <a class="social-btn" href="https://www.aparat.com/{{ site.aparat }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw "><img class="bazar" src="assets/img/aparat.png" style="width:85%;position:relative;top:10px;margin-top:-7px;"></i></a>
+                        {% endif %}
                         {% if site.email %}<a class="social-btn" href="mailto:{{ site.email }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>{% endif %}
                         {% if site.twitter %}<a class="social-btn" href="http://twitter.com/{{ site.twitter }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i></a>{% endif %}
                         {% if site.facebook %}<a class="social-btn" href="http://facebook.com/{{ site.facebook }}" target="_self" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook-square"></i></a>{% endif %}

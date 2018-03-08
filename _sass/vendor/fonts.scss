@@ -103,10 +103,20 @@
 //iransans
 @font-face {
     font-family: 'Iransans';
+    src: url("../fonts/Iransans/ir_sense_medium.ttf");
+    src: local("Iransans"), url("../fonts/Iransans/ir_sense_medium.ttf") format("truetype");
+
+}
+
+
+//iransans
+@font-face {
+    font-family: 'Iransans_bold';
     src: url("../fonts/Iransans/ir_sense_bold.ttf");
     src: local("Iransans"), url("../fonts/Iransans/ir_sense_bold.ttf") format("truetype");
 
 }
+
 
 //vazir
 @font-face {

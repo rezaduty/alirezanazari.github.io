@@ -1,6 +1,6 @@
 # Site
 title:              وبسایت علیرضا نظری
-bio:                'برنامه نویس و ایده پرداز اندروید'
+bio:                'دانشجوی دانشکده شمسی پور'
 description:        "وبسایت و وبلاگ علیرضا نظری"
 reading_time:       true
 words_per_minute:   200
@@ -8,6 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/stardust.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
+#url:                http://127.0.0.1:4000/
 url:                https://alirezanazari.github.io
 
 # Jekyll
@@ -37,15 +38,16 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-#twitter:            username
-#facebook:           username
+email  :            a.alirezanazari@gmail.com
+twitter:            ali_rezanazari
+#facebook:          username
 github-url:         alirezanazari
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           alireza-nazari-50a556112
 #xing:              username
 instagram:          ali_rezanazari
-cafebazar:          ali_rezanazari
+cafebazar:          696994579358
+aparat:             ali_rezanazari
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
