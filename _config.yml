@@ -1,6 +1,6 @@
 # Site
 title:              وبسایت علیرضا نظری
-bio:                'دانشجوی دانشکده شمسی پور'
+bio:                'دانشجوی کارشناسی نرمافزار دانشکده شمسی پور'
 description:        "وبسایت و وبلاگ علیرضا نظری"
 reading_time:       true
 words_per_minute:   200
@@ -28,6 +28,20 @@ sass:
 
 # Comments
 disqus_shortname:   taylantatli
+
+
+#seo
+
+twitter:
+  username: ali_rezanazari
+social:
+  name: Alireza Nazari
+  links:
+    - https://twitter.com/ali_rezanazari
+    - https://www.linkedin.com/in/alireza-nazari-50a556112
+    - https://github.com/alirezanazari
+
+
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -71,6 +85,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 
 jekyll-mentions:
     base_url: https://github.com

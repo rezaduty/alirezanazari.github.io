@@ -79,7 +79,7 @@ comments: false
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">برنامه نویس اندروید</span>
+				<span class="flag">برنامه نویس اندروید و مدیر پروژه</span>
 				<span class="time-wrapper"><span class="time">شهریور ۹۶ تا آذر ۹۶</span></span>
 			</div>
 			<div class="desc">نرم افزار راه هیئت</div>
@@ -97,7 +97,7 @@ comments: false
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">برنامه نویس اندروید</span>
+				<span class="flag">برنامه نویس اندروید  - شخصی</span>
 				<span class="time-wrapper"><span class="time">فرودین ۹۶</span></span>
 			</div>
 			<div class="desc">نرم افزار سنج</div>
@@ -106,7 +106,7 @@ comments: false
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">برنامه نویس اندروید</span>
+				<span class="flag">برنامه نویس اندروید - شخصی</span>
 				<span class="time-wrapper"><span class="time">آبان ۹۵</span></span>
 			</div>
 			<div class="desc">نرم افزار پرسون</div>
@@ -124,7 +124,7 @@ comments: false
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">برنامه نویس و مبدا</span>
+				<span class="flag">برنامه نویس اندروید - شخصی</span>
 				<span class="time-wrapper"><span class="time">مهر ۹۵</span></span>
 			</div>
 			<div class="desc">نرم افزار آقای برنامه نویس</div>
