@@ -67,25 +67,67 @@ comments: false
 
 <ul class="timeline">
 
-	<!-- Item 1 -->
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">فریلنسر</span>
-				<span class="time-wrapper"><span class="time">مهر ۱۳۹۶ تا آبان ۱۳۹۶</span></span>
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time">دی ۱۳۹۶</span></span>
 			</div>
-			<div class="desc">طراحی کامل برنامه اندروید <a target="_self" href="cafebazaar.ir/app/ir.alirezanazari.rahheyat/?l=fa">راه هیت</a></div>
+			<div class="desc">نرم افزار تلکسیران</div>
 		</div>
 	</li>
-  
-	<!-- Item 2 -->
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">فریلنسر</span>
-				<span class="time-wrapper"><span class="time">مهر ۱۳۹۵ تا آبان ۱۳۹۵</span></span>
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time">شهریور ۹۶ تا آذر ۹۶</span></span>
 			</div>
-			<div class="desc">طراحی کامل برنامه اندروید <a target="_self" href="https://cafebazaar.ir/app/ir.alirezanzari.app.mrprogrammer/?l=fa">آقای برنامه نویس</a></div>
+			<div class="desc">نرم افزار راه هیئت</div>
+		</div>
+	</li>
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time">مرداد ۹۶</span></span>
+			</div>
+			<div class="desc">نرم افزار تسبیح</div>
+		</div>
+	</li>
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time">فرودین ۹۶</span></span>
+			</div>
+			<div class="desc">نرم افزار سنج</div>
+		</div>
+	</li>
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time">آبان ۹۵</span></span>
+			</div>
+			<div class="desc">نرم افزار پرسون</div>
+		</div>
+	</li>
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time">آبان ۹۵ تا مهر ۹۶</span></span>
+			</div>
+			<div class="desc">شرکت مباشرین خاورمیانه</div>
+		</div>
+	</li>
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">برنامه نویس و مبدا</span>
+				<span class="time-wrapper"><span class="time">مهر ۹۵</span></span>
+			</div>
+			<div class="desc">نرم افزار آقای برنامه نویس</div>
 		</div>
 	</li>
 
