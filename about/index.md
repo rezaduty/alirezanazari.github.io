@@ -106,7 +106,7 @@ comments: false
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">برنامه نویس اندروید - شخصی</span>
+				<span class="flag">برنامه نویس اندروید</span>
 				<span class="time-wrapper"><span class="time">آبان ۹۵</span></span>
 			</div>
 			<div class="desc">نرم افزار پرسون</div>

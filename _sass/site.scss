@@ -276,7 +276,7 @@ header .entry-meta {
     font-size: 2em;
     text-shadow: 0.03em 0.03em 0 #b4b4b2;
   }
-  .home-h1:after  {
+ /* .home-h1:after  {
     content: attr(data-shadow);
     position: absolute;
     top: 7.6em;
@@ -288,7 +288,7 @@ header .entry-meta {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: shad-anim 15s linear infinite;
-}
+}*/
 
 @keyframes shad-anim {
   0% {background-position: 0 0}
