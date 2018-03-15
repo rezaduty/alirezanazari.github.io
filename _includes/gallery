@@ -5,7 +5,7 @@
   <div class="owl-carousel">
     {% for image in images %}
     <div class="item">
-    <a class="item" href="{{ image }}" rel="prettyPhoto" title="This is the description"><img src="{{ image }}"></a>
+    <a class="item" href="{{ image }}" rel="prettyPhoto"><img src="{{ image }}"></a>
     </div>
     {% endfor %}
     </div>
