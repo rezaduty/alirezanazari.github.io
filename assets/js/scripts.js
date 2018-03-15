@@ -24,7 +24,6 @@ $(function() {
 // All others
 $(document).ready(function() {
 
-
 // about qutoe slider
 
 
