@@ -7,9 +7,6 @@ comments: false
 ---
     
 
-<img style="width:40%;" src="/assets/img/logo.png">
-
-
 ## توانایی ها
 
 <div class="col-lg-12 col-md-12 col-sm-12">
