@@ -3,7 +3,7 @@ layout: post
 title:  "پروژه نت بار | مخصوص رانندگان"
 date:   2018-03-04
 excerpt: "برنامه اندروید نت بار مخصوص رانندگان"
-image: /assets/img/telexiran/Icon-xxxhdpi.png
+image: https://s.cafebazaar.ir/1/icons/ir.netbar.nbdriver_512x512.png
 tag:
 - markdown 
 - mathjax
@@ -14,19 +14,24 @@ project: true
 comments: true
 ---
 
-![](/assets/img/telexiran/Icon-xxxhdpi.png)    
+![](https://s.cafebazaar.ir/1/icons/ir.netbar.nbdriver_512x512.png)    
          
-عنوان
+نت بار، سامانه هوشمند حمل بار در تمامی نقاط ایران پهناور میباشد که صاحبان بار را به ناوگان رسمی حمل بار در کشور متصل مینماید. 
+
+
+
+
+
+با استفاده از اپلیکیشن " نت بار" ، براحتی میتوانید سفارش بار خود را با مشخص کردن مبدا، مقصد و زمان بارگیری ثبت کنید، از حمل آن توسط رانندگان مجرب اطمینان حاصل کنید و از زمان شروع بارگیری تا رسیدن به مقصد، وضعیت حمل را رصد نمایید. 
 
 ## عکس های برنامه
 
 {% capture images %}
-  /assets/img/telexiran/photo5972246824062398325.jpg
-  /assets/img/telexiran/photo5972246824062398320.jpg
-  /assets/img/telexiran/photo5972246824062398321.jpg
-  /assets/img/telexiran/photo5972246824062398322.jpg
-  /assets/img/telexiran/photo5972246824062398323.jpg
-  /assets/img/telexiran/photo5972246824062398324.jpg
+  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-508844240314.webp
+  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-329404834157.webp
+  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-171002998551.webp
+  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-853401546963.webp
+  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-517775779736.webp
 {% endcapture %}
 {% include gallery images=images%}
 
