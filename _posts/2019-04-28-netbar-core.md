@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "پروژه نت بار | سامانه هوشمند حمل و نقل"
-date:   2018-04-28
+date:   2019-04-28
 excerpt: "برنامه اندروید نت بار"
 image: https://s.cafebazaar.ir/1/icons/ir.netbar.nbcustomer_512x512.png
 tag:
