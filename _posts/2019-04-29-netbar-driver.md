@@ -1,15 +1,15 @@
-------
+---
 layout: post
-title:  "پروژه نت بار مخصوص رانندگان"
-date:   2019-04-29
-excerpt: "برنامه اندروید نت بار مخصوص رانندگان"
+title:  "پروژه نت بار | مخصوص رانندگان"
+date:   2019-04-28
+excerpt: "برنامه اندروید نت بار"
 image: https://s.cafebazaar.ir/1/icons/ir.netbar.nbcustomer_512x512.png
 tag:
 - projects 
 project: true
 comments: true
-
 ---
+
          
 نت بار، سامانه هوشمند حمل بار در تمامی نقاط ایران پهناور میباشد که صاحبان بار را به ناوگان رسمی حمل بار در کشور متصل مینماید. 
 
