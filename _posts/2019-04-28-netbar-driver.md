@@ -2,7 +2,7 @@
 layout: post
 title:  "پروژه نت بار | مخصوص رانندگان"
 date:   2018-03-04
-excerpt: "برنامه اندروید نت بار"
+excerpt: "برنامه اندروید نت بار مخصوص رانندگان"
 image: https://s.cafebazaar.ir/1/icons/ir.netbar.nbcustomer_512x512.png
 tag:
 - markdown 
