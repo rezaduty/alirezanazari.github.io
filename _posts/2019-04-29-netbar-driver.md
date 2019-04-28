@@ -5,11 +5,7 @@ date:   2019-04-29
 excerpt: "برنامه اندروید نت بار مخصوص رانندگان"
 image: https://s.cafebazaar.ir/1/icons/ir.netbar.nbcustomer_512x512.png
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
+- projects 
 project: true
 comments: true
 ---
