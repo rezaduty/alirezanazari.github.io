@@ -5,11 +5,7 @@ date:   2018-03-04
 excerpt: "برنامه اندروید تلکسیران"
 image: /assets/img/telexiran/Icon-xxxhdpi.png
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
+- projects 
 project: true
 comments: true
 ---
