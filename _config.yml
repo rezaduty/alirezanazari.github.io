@@ -9,7 +9,7 @@ background:         'assets/img/stardust.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 #url:                http://127.0.0.1:4000/
-url:                https://alirezanazari.github.io
+url:                http://alirezanazari.ir
 
 # Jekyll
 permalink:          /:title/
