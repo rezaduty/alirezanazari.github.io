@@ -27,11 +27,19 @@ comments: true
 ## عکس های برنامه
 
 {% capture images %}
-  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-508844240314.webp
-  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-329404834157.webp
-  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-171002998551.webp
-  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-853401546963.webp
-  https://s.cafebazaar.ir/1/upload/screenshot/ir.netbar.nbdriver-517775779736.webp
+  https://atbox.io/uploads/projects/attachments/0083192247472/medium_9l8I5Sm0q7AtJ3qbZ4vrmx3Jl5skXaK2.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_pMkJj6iF19KUpPWltzsInJlBPxM9PZ1f.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_lYgGd1a8nUf95fLCvwGtgVHyZu9771O3.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_didWDLSkXZMqElF2D2xgSH4TSBGZgIuc.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_6YJ3SP2L4V2Kp7incNPy6gYbGVST4wks.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_EyAdwcSXRxI3TlR81DlOjSzXDBh5wIi1.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_rh4wO7dcNVua1EUi5yNV5cY8BHreyNHp.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_wWtv6IQYUIrTeDbofBPCWuDMOS2PTRnz.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_zaIfmYFbUCpChdxIfm9IOoMPiP7ZMN0l.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_eTAKzHyHQlIVgGEUowSJmnS4DcaaDqow.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_q6Ls1FGl5oVsG6g5Fg3PMELnpzasD8zV.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_ASxhhkeukK6QTJbshCtbANiPcTiQfiQN.jpg
+  https://atbox.io/uploads/projects/attachments/0083192247472/thumb_0qhcXR9V8YRXdI0vWCQWzZQgNLGZOpqt.jpg
 {% endcapture %}
 {% include gallery images=images%}
 
