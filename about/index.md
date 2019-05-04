@@ -2,13 +2,10 @@
 layout: page
 title: درباره من
 tags: [about, Jekyll, theme, moon]
-date: 2019-04-29
+date: 2016-03-21
 comments: false
 ---
     
-
-<img style="width:40%;" src="/assets/img/logo.jpeg">
-
 
 ## توانایی ها
 
@@ -60,25 +57,29 @@ comments: false
 <!-- The Timeline -->
 
 <ul class="timeline">
-<li>
+
+
+
+	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">برنامه نویس اندروید</span>
-				<span class="time-wrapper"><span class="time">۹۷</span></span>
+				<span class="time-wrapper"><span class="time">دی ۱۳۹۷</span></span>
 			</div>
-			<div class="desc">نرم افزار نت بار مخصوص رانندگان</div>
-		</div>
-	</li>
-<li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">برنامه نویس اندروید</span>
-				<span class="time-wrapper"><span class="time">۹۷</span></span>
-			</div>
-			<div class="desc">نرم افزار نت بار </div>
+			<div class="desc">نت بار | سامانه هوشمند حمل و نقل</div>
 		</div>
 	</li>
 	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time">دی ۱۳۹۷</span></span>
+			</div>
+			<div class="desc">نت بار | مخصوص رانندگان</div>
+		</div>
+	</li>
+    
+    <li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">برنامه نویس اندروید</span>
