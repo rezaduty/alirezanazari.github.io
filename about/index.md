@@ -58,13 +58,21 @@ comments: false
 
 <ul class="timeline">
 
-
+<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">برنامه نویس اندروید</span>
+				<span class="time-wrapper"><span class="time"> ۱۳۹۷</span></span>
+			</div>
+			<div class="desc">نت بار | مخصوص نمایندگان</div>
+		</div>
+	</li>
 
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">برنامه نویس اندروید</span>
-				<span class="time-wrapper"><span class="time">دی ۱۳۹۷</span></span>
+				<span class="time-wrapper"><span class="time"> ۱۳۹۷</span></span>
 			</div>
 			<div class="desc">نت بار | سامانه هوشمند حمل و نقل</div>
 		</div>
@@ -73,7 +81,7 @@ comments: false
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">برنامه نویس اندروید</span>
-				<span class="time-wrapper"><span class="time">دی ۱۳۹۷</span></span>
+				<span class="time-wrapper"><span class="time"> ۱۳۹۷</span></span>
 			</div>
 			<div class="desc">نت بار | مخصوص رانندگان</div>
 		</div>
